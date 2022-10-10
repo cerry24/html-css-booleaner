@@ -1,0 +1,19 @@
+#banner {
+    height: 150px;
+    width: 100%;
+    background: rgb(69, 208, 250) url("../img/pattern.png");
+}
+
+h1 {
+    font-weight:1000 ;
+    font-size: 50px;
+}
+
+#author-info {
+    color: gray;
+    font-size: 20px;
+}
+
+#author-name {
+    color: rgb(0, 201, 241);
+}
