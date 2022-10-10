@@ -25,3 +25,16 @@ h1 {
 .yellow-highlight {
     background-color: yellow;
 }
+
+table {
+    width: 60%;
+    text-align: left;
+}
+thead {
+    background-color: rgb(3, 206, 252);
+    color: white;
+}
+
+.light-blue-tr {
+    background-color: rgb(162, 236, 255);
+}
