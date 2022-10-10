@@ -17,3 +17,7 @@ h1 {
 #author-name {
     color: rgb(0, 201, 241);
 }
+
+#photo-descr {
+    font-size: 10px;
+}
