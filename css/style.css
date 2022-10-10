@@ -21,3 +21,7 @@ h1 {
 #photo-descr {
     font-size: 10px;
 }
+
+.yellow-highlight {
+    background-color: yellow;
+}
