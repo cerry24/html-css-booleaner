@@ -38,3 +38,25 @@ thead {
 .light-blue-tr {
     background-color: rgb(162, 236, 255);
 }
+
+h2 {
+    color: gray;
+}
+
+#related-article-monitor {
+    width: 312px;
+    height: 208px;
+    background-image: url("../img/monitor.jpg");
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+
+#related-article-graph {
+    width: 312px;
+    height: 208px;
+    background-image: url("../img/graph.jpg");
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
